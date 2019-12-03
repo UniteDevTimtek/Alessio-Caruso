@@ -1,0 +1,221 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Documenti\\Alex\\Documents\\Visual Studio 2019\\Projects\\Interviews\\CountryDataViewer\\CountryDataReader.Service.Tests\\CountryDataReader.Service.Tests.csproj": {}
+  },
+  "projects": {
+    "F:\\Documenti\\Alex\\Documents\\Visual Studio 2019\\Projects\\Interviews\\CountryDataViewer\\CountryDataReader.Service.Tests\\CountryDataReader.Service.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Documenti\\Alex\\Documents\\Visual Studio 2019\\Projects\\Interviews\\CountryDataViewer\\CountryDataReader.Service.Tests\\CountryDataReader.Service.Tests.csproj",
+        "projectName": "CountryDataReader.Service.Tests",
+        "projectPath": "F:\\Documenti\\Alex\\Documents\\Visual Studio 2019\\Projects\\Interviews\\CountryDataViewer\\CountryDataReader.Service.Tests\\CountryDataReader.Service.Tests.csproj",
+        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+        "outputPath": "F:\\Documenti\\Alex\\Documents\\Visual Studio 2019\\Projects\\Interviews\\CountryDataViewer\\CountryDataReader.Service.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "F:\\Documenti\\Alex\\Documents\\Visual Studio 2019\\Projects\\Interviews\\CountryDataViewer\\CountryDataReader.Service\\CountryDataReader.Service.csproj": {
+                "projectPath": "F:\\Documenti\\Alex\\Documents\\Visual Studio 2019\\Projects\\Interviews\\CountryDataViewer\\CountryDataReader.Service\\CountryDataReader.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Documenti\\Alex\\Documents\\Visual Studio 2019\\Projects\\Interviews\\CountryDataViewer\\CountryDataReader.Service\\CountryDataReader.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Documenti\\Alex\\Documents\\Visual Studio 2019\\Projects\\Interviews\\CountryDataViewer\\CountryDataReader.Service\\CountryDataReader.Service.csproj",
+        "projectName": "CountryDataReader.Service",
+        "projectPath": "F:\\Documenti\\Alex\\Documents\\Visual Studio 2019\\Projects\\Interviews\\CountryDataViewer\\CountryDataReader.Service\\CountryDataReader.Service.csproj",
+        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+        "outputPath": "F:\\Documenti\\Alex\\Documents\\Visual Studio 2019\\Projects\\Interviews\\CountryDataViewer\\CountryDataReader.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "F:\\Documenti\\Alex\\Documents\\Visual Studio 2019\\Projects\\Interviews\\CountryDataViewer\\CountryDataViewer.Shared\\CountryDataViewer.Shared.csproj": {
+                "projectPath": "F:\\Documenti\\Alex\\Documents\\Visual Studio 2019\\Projects\\Interviews\\CountryDataViewer\\CountryDataViewer.Shared\\CountryDataViewer.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.6.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Documenti\\Alex\\Documents\\Visual Studio 2019\\Projects\\Interviews\\CountryDataViewer\\CountryDataViewer.Shared\\CountryDataViewer.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Documenti\\Alex\\Documents\\Visual Studio 2019\\Projects\\Interviews\\CountryDataViewer\\CountryDataViewer.Shared\\CountryDataViewer.Shared.csproj",
+        "projectName": "CountryDataViewer.Shared",
+        "projectPath": "F:\\Documenti\\Alex\\Documents\\Visual Studio 2019\\Projects\\Interviews\\CountryDataViewer\\CountryDataViewer.Shared\\CountryDataViewer.Shared.csproj",
+        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+        "outputPath": "F:\\Documenti\\Alex\\Documents\\Visual Studio 2019\\Projects\\Interviews\\CountryDataViewer\\CountryDataViewer.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.6.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

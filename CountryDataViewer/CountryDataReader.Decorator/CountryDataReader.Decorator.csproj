@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CountryDataReader.Service\CountryDataReader.Service.csproj" />
+    <ProjectReference Include="..\CountryDataViewer.Shared\CountryDataViewer.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
